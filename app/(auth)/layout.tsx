@@ -11,7 +11,9 @@ function Layout({ children }: { children: ReactNode }) {
           <ThemeSwitcher />
         </div>
       </nav>
-      <main className="flex w-full flex-grow h-full items-center justify-center">{children}</main>
+      <main className="flex w-full flex-grow h-full items-center justify-center">
+        {children}
+      </main>
     </div>
   );
 }
