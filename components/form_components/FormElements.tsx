@@ -1,9 +1,9 @@
 import { CheckboxFieldFormElement } from "../fields/CheckboxField";
-import { DateFieldFormElement } from "../fields/DateField";
+import { DateFieldFormElement } from "../fields/DataField";
 import { NumberFieldFormElement } from "../fields/NumberField";
 import { ParagprahFieldFormElement } from "../fields/ParagraphField";
 import { SelectFieldFormElement } from "../fields/SelectField";
-import { SeparatorFieldFormElement } from "../fields/SeparatorField";
+import { SeparatorFieldFormElement } from "../fields/SeperatorField";
 import { SpacerFieldFormElement } from "../fields/SpacerField";
 import { SubTitleFieldFormElement } from "../fields/SubTitleField";
 import { TextAreaFormElement } from "../fields/TextAreaField";
